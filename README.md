@@ -15,4 +15,4 @@ Instructions on how to use them in your own application are linked below.
 
 
    [link-1]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [link2]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [link-2]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
