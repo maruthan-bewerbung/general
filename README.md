@@ -1,11 +1,7 @@
 # general
 Allgemeines Repository für all meine Bewerbungsunterlagen.
 
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
+## Index
 | Name | Link | Beschreibung |
 | ------ | ------ | ------ |
 | Unterlagen | [=>Unterlagen][link-1] | ------ |
